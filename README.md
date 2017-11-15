@@ -32,4 +32,6 @@ git pull
 git add .
 git commit -m "fin clase .... bla, bla"
 git push
-```
+
+:3
+Hola, cambio realizado por "Agustin Juan Lopez Vila"
